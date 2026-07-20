@@ -1,9 +1,9 @@
 streamlit
 langchain
+langchain-community
 chromadb
 groq
 pypdf
 langchain-text-splitters
-
 
 
