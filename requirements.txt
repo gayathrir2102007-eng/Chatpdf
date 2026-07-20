@@ -1,0 +1,9 @@
+streamlit
+langchain
+chromadb
+groq
+pypdf
+langchain-text-splitters
+
+
+
